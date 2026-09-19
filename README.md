@@ -34,7 +34,7 @@
   <a href="https://linkedin.com/in/nico-justin-tanryo-90531b413" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="[https://instagram.com/username-kamu](https://www.instagram.com/nijt123/)" target="_blank">
+  <a href="https://instagram.com/nijt123" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="mailto:tanryonico68@gmail.com">
