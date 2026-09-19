@@ -11,27 +11,27 @@
   - Gunakan generator seperti https://capsule-render.vercel.app/
 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=4cd137&height=200&section=header&text=Halo,%20Saya%20[Nico%20Justin%20Tanryo]&fontSize=40&fontColor=ffffff" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4cd137&height=200&section=header&text=Halo,%20Saya%20Nico%20Justin%20Tanryo&fontSize=40&fontColor=ffffff" alt="banner" />
 </p>
 
-<h1 align="center">[Nico Justin Tanryo]</h1>
+<h1 align="center">Nico Justin Tanryo</h1>
 <p align="center">[Peserta Workshop Git & GitHub | Junior Frontend Enthusiast]</p>
 
 ---
 
 ### Details / About Me
 
-- **Pekerjaan Saat ini**: [Mahasiswa]
-- **Sedang mendalami**: [React.js, Git & GitHub Workflow]
-- **Target**: [Menjadi Developer profesional]
-- **Fun fact**: [I like HSR]
+- **Pekerjaan Saat ini**: Mahasiswa
+- **Sedang mendalami**: React.js, Git & GitHub Workflow
+- **Target**: Menjadi Developer profesional
+- **Fun fact**: I like HSR
 
 ---
 
 ### Connect with Me
 
 <p align="left">
-  <a href="[https://linkedin.com/in/username-kamu](https://www.linkedin.com/in/nico-justin-tanryo-90531b413/)" target="_blank">
+  <a href="https://linkedin.com/in/Nico Justin Tanryo" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="[https://instagram.com/username-kamu](https://www.instagram.com/nijt123/)" target="_blank">
